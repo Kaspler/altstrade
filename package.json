@@ -1,6 +1,6 @@
 {
   "name": "altstrade",
-  "version": "0.1",
+  "version": "0.1.0",
   "description": "ALTS.Trade REST API wrapper",
   "keywords": [
     "altstrade",
