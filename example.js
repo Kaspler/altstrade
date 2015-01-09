@@ -1,4 +1,4 @@
-var Altstrade = require('./altstrade.js');
+var Altstrade = require('altstrade');
 
 var api = new Altstrade("PUBLIC KEY", "PRIVATE KEY");
 api.markets(console.log);
