@@ -1,0 +1,36 @@
+{
+  "name": "altstrade",
+  "version": "0.0.2",
+  "description": "ALTS.Trade REST API wrapper",
+  "keywords": [
+    "altstrade",
+    "alts.trade",
+    "btc",
+    "bitcoin",
+    "altcoins",
+    "cryptocurrency"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "crypto": "0.0.3",
+    "querystring": "^0.2.0",
+    "underscore": "1.4.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kaspler/altstrade"
+  },
+  "main": "altstrade.js",
+  "engines": {
+    "node": ">= 0.7"
+  },
+  "bugs": {
+    "url": "https://github.com/kaspler/altstrade/issues"
+  },
+  "homepage": "https://github.com/kaspler/altstrade",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ALTS.Trade <support@alts.trade> (https://alts.trade/)"
+}
